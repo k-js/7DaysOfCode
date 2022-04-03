@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: brown;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+.resposta{
+    background: wheat;
+    margin: 200px;
+    
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    color: crimson;
+}
+i {
+    color: rgb(104, 29, 81);
+}
+.btn-direcionado{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: crimson;
+}
+.btn-direcionado:hover{
+    font-size: 35px;
+    color: brown;
+}
+.fe{
+    width: 90px;
+    height: 40px;
+    margin: 20px;
+}
+.be{  
+    width: 90px;
+    height: 40px;
+    margin: 20px;
+}
