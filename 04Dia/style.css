@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: gold;
+    color: black;
+}
+
+.resposta{
+    display: flex;
+    justify-content: center;
+    margin: 280px;
+}
+
+input{
+    width: 150px;
+    height: 90px;
+    border-color: chartreuse;
+    color: chartreuse;
+    font-size: 30px;
+}
